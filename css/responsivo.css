@@ -1,0 +1,22 @@
+@media(max-width: 860px){
+    .box{
+        flex-direction: column;
+        width: 400px;
+        height: 850px;
+    }
+    img{
+        width: 400px;
+        border-radius: 10px 10px 0px 0px;
+        position:;
+    }
+
+    .description{
+        margin-top: -10px;
+    }
+
+    footer{
+        bottom:-230px;
+        padding: 20px;
+
+    }
+}
